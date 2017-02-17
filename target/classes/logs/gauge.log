@@ -1,0 +1,6 @@
+08:27:34.754 Runner connection error: Timed out connecting to [::]:59468
+08:27:34.755 Error while killing runner: os: process already finished
+08:27:34.755 Killing Gauge daemon. Timed out connecting to [::]:59468
+22:38:20.463 Runner connection error: Timed out connecting to [::]:51974
+22:38:20.464 Error while killing runner: os: process already finished
+22:38:20.464 Killing Gauge daemon. Timed out connecting to [::]:51974

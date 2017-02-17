@@ -1,0 +1,21 @@
+08:27:04.693 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+08:27:04.694 Watching directory: /Users/thivyalakshimi/Desktop/Appium_Vodqa_Feb2017/specs
+08:27:04.694 Found 1 files
+08:27:04.696 Initializing concepts cache with 0 concepts
+08:27:04.697 Initializing specs cache with 1 specs
+08:27:04.697 Adding specs from /Users/thivyalakshimi/Desktop/Appium_Vodqa_Feb2017/specs/example.spec
+08:27:04.697 Initializing steps cache with 3 steps
+22:37:50.363 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+22:37:50.364 Initializing concepts cache with 0 concepts
+22:37:50.365 Watching directory: /Users/thivyalakshimi/Desktop/Appium_Vodqa_Feb2017/specs
+22:37:50.365 Found 1 files
+22:37:50.383 Initializing specs cache with 1 specs
+22:37:50.383 Adding specs from /Users/thivyalakshimi/Desktop/Appium_Vodqa_Feb2017/specs/example.spec
+22:37:50.383 Initializing steps cache with 3 steps
+01:26:00.770 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+01:26:00.776 Initializing concepts cache with 0 concepts
+01:26:00.779 Initializing specs cache with 1 specs
+01:26:00.779 Adding specs from /Users/thivyalakshimi/Desktop/Appium_Vodqa_Feb2017/specs/example.spec
+01:26:00.779 Initializing steps cache with 3 steps
+01:26:00.780 Watching directory: /Users/thivyalakshimi/Desktop/Appium_Vodqa_Feb2017/specs
+01:26:00.780 Found 1 files
